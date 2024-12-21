@@ -1,4 +1,6 @@
 # Janken (Rock-Paper-Scissors)
+![gameplay](./images/gameplay.jpeg)
+
 Janken is a classic Japanese version of the Rock-Paper-Scissors game. Implemented in Ruby. This program allows one player to compete against a bot in interactive way. Player 2 (bot) randomly selects its moves.
 
 ## License
